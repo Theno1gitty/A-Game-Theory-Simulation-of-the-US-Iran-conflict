@@ -1,5 +1,5 @@
 # A-Game-Theory-Simulation-of-the-US-Iran-conflict
-An accompaniment of the paper "A Game-Theoretic Approach to Anticipate the Likely Outcomes of the US-Iran Conflict", this project uses an attrition-based game to model the US-Iran conflict. 
+An accompaniment of the paper "A Computational Game-Theoretic Framework for Modelling Repeated Asymmetric Strategic Interactions, Demonstrated Using the US-Iran Conflict as a Case Study", this project uses an attrition-based game to model the US-Iran conflict. 
 
 ## Model Structure and Methods
 * Each agent uses probabilistic strategies to increase their payoff
